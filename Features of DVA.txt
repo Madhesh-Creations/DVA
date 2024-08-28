@@ -1,0 +1,124 @@
+List of Features or command are add in this Desktop voice Assistant(Sophia)
+
+The List are:
+
+
+1) from wikipedia {query}
+
+2) open youtube
+
+3) open google
+
+4) open stackoverflow
+
+5) play songs / music
+
+6) tell time
+
+7) tell date
+
+8) tell day
+
+9) how are you
+
+10) fine / good
+
+11) change my name to {query}
+
+12) change name (assistant name)
+
+13) what is your name
+
+14) exix / bye / you can leave
+
+15) who made you
+
+16) tell joke
+
+17) calculate
+
+18) search / play {query}
+
+19) open youtube and play {query}
+
+20) play song on youtube
+
+21) open typing game
+
+22) open google and search {query}
+
+23) who i am
+
+24) open powerpoint
+
+25) who are you
+
+26) reason for you 
+
+27) change background
+
+28) tell news
+
+29) lock window
+
+30) shutdown system
+
+31) find location of {query}
+
+32) what is my exact location
+
+33) where i am
+
+34) open bluetooth
+
+35) take a photo
+
+36) restart the system
+
+37) send message in whatsapp
+
+38) tell weather
+
+39) take screenshot
+
+40) make notes
+
+41) open note of commands (this note)
+
+42) open notepad
+
+43) open mspaint
+
+44) open performance window
+
+45) open snipping tool
+
+46) open code
+
+47) open file manager
+
+48) open powershell
+
+49) open command prompt
+
+50) open control panel
+
+51) open vlc
+
+52) call sophia
+
+53) opwn wikipedia
+
+54) good morning
+
+55) what is {query} / who is {query}
+
+56) show calender
+
+57) play game
+
+58) open gmail
+
+59) tell ip adderss
+
+60) play movie
